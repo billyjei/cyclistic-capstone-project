@@ -12,7 +12,7 @@ As a junior data analyst on Cyclistic's marketing analytics team, I have been ta
 
 ## Case Study Report
 
-You can find the detailed report on my data analysis process in the [cyclistic-case-study.ipynb](cyclistic-case-study.ipynb) file above.
+You can find the detailed report on my data analysis process in the [capstone_project_cyclistic.ipynb](capstone_project_cyclistic.ipynb) file above.
 
 ## Case Study Visuals
 
