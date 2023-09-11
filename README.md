@@ -16,8 +16,8 @@ You can find the detailed report on my data analysis process in the [cyclistic-c
 
 ## Case Study Visuals
 
-I have also created interactive visuals based on the analysis, which are available on Tableau. You can access and explore these visuals [here](https://public.tableau.com/app/profile/vincent.wainman/viz/CaseStudy-Cyclistic/CyclisticCaseStudyVisuals).
+I have also created interactive visuals based on the analysis, which are available on Tableau. You can access and explore these visuals [here](https://public.tableau.com/app/viz/CaseStudy-Cyclistic/CyclisticCaseStudyVisuals).
 
 ## Stakeholder Presentation
 
-To provide an overview of the findings and recommendations, I have prepared a presentation for the fictional stakeholders. You can watch the presentation [here](https://youtu.be/9Rr4QwJb5Lk).
+To provide an overview of the findings and recommendations, I have prepared a presentation for the fictional stakeholders. You can watch the presentation [here](https://youtu.be/9Rr4Q5Lk).
