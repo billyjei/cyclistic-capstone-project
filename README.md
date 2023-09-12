@@ -20,4 +20,4 @@ I have also created interactive visuals based on the analysis, which are availab
 
 ## Stakeholder Presentation
 
-To provide an overview of the findings and recommendations, I have prepared a presentation for the fictional stakeholders. You can watch the presentation [here]([https://youtu.be/9Rr4Q5Lk](https://docs.google.com/presentation/d/1tZdNj1aA4zLC50tv1G5a4vlFnPsUYIhgjpHNVLU4StQ/edit?usp=sharing)https://docs.google.com/presentation/d/1tZdNj1aA4zLC50tv1G5a4vlFnPsUYIhgjpHNVLU4StQ/edit?usp=sharing).
+To provide an overview of the findings and recommendations, I have prepared a presentation for the fictional stakeholders. You can watch the presentation [here](https://docs.google.com/presentation/d/1tZdNj1aA4zLC50tv1G5a4vlFnPsUYIhgjpHNVLU4StQ/edit?usp=sharing).
