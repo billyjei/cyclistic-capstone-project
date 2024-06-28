@@ -16,7 +16,7 @@ You can find the detailed report on my data analysis process in the [capstone_pr
 
 ## Case Study Visuals
 
-I have also created interactive visuals based on the analysis, which are available on Tableau. You can access and explore these visuals [here](https://public.tableau.com/app/profile/billy.jehan/viz/CyclisticsDataTrip/Dashboard).
+I've also created interactive visuals based on the analysis, which are available on Tableau. You can access and explore these visuals [here](https://public.tableau.com/app/profile/billy.jehan/viz/CyclisticsDataTrip/Dashboard).
 
 ## Key Findings Presentation with Stakeholders
 The presentation outlining the key findings from the analysis, which I share with stakeholders, is accessible at the following [link](https://youtu.be/8H5RSOqf2ew).
